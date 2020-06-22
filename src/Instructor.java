@@ -4,6 +4,7 @@ import java.util.List;
 public class Instructor {
     private String name;
 
+    public Instructor(){};
     public Instructor(String name) {
         this.name = name;
     }
